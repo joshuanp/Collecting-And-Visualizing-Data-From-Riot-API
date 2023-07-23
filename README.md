@@ -1,8 +1,11 @@
 # Collecting-And-Visualizing-Data-From-Riot-API
 
+## Description
 For this project, I collected my personal data from league of legends matches using the Riot API. After cleaning the data, it totals to 870 games.
 
 I visualized win rate, KDA, DPM, CS/min, multikills, total amount of first bloods, and objectives stolen filterable by champion, gamemode, role, year/month/day, and patch version.
+
+I wrote a report in Jupyter Notebook that contains the code used to collect the data, my thought processes, and results. 
 
 The dashboard allows answering the following various questions and more: 
 * If I want to climb ranks the fastest, who and what role should I play?
