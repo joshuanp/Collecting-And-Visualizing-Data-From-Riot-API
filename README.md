@@ -1,7 +1,9 @@
 # Collecting-And-Visualizing-Data-From-Riot-API
 
-For this project, I collected my personal data from league of legends matches using the Riot API. After cleaning the data, it totals to 870 games. 
+For this project, I collected my personal data from league of legends matches using the Riot API. After cleaning the data, it totals to 870 games.
+
 I visualized win rate, KDA, DPM, CS/min, multikills, total amount of first bloods, and objectives stolen. 
+
 Dashboard is filterable by champion, gamemode, role, time, and patch version.
 
 The dashboard allows answering the following various questions and more: 
@@ -27,3 +29,4 @@ The dashboard allows answering the following various questions and more:
 * Power BI
 * DAX
 * Power Query
+* Jupyter Notebook
